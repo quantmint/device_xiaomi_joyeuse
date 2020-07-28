@@ -4,13 +4,13 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from sm6250-common
+# Inherit from sm6250-common6.
 -include device/xiaomi/sm6250-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/xiaomi/curtana
+DEVICE_PATH := device/xiaomi/joyeuse
 
 # Inherit proprietary blobs
--include vendor/xiaomi/curtana/BoardConfigVendor.mk
+-include vendor/xiaomi/joyeuse/BoardConfigVendor.mk
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := curtana
@@ -19,4 +19,4 @@ TARGET_BOOTLOADER_BOARD_NAME := curtana
 TARGET_SCREEN_DENSITY := 440
 
 # Kernel
-TARGET_KERNEL_CONFIG := curtana_defconfig
+TARGET_KERNEL_CONFIG := joyeuse_defconfig

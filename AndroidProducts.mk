@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_curtana.mk
+    $(LOCAL_DIR)/xtended_joyeuse.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_curtana-user \
-    lineage_curtana-userdebug \
-    lineage_curtana-eng
+    xtended_joyeuse-user \
+    xtended_joyeuse-userdebug \
+    xtended_joyeuse-eng
