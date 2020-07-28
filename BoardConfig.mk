@@ -13,7 +13,7 @@ DEVICE_PATH := device/xiaomi/joyeuse
 -include vendor/xiaomi/joyeuse/BoardConfigVendor.mk
 
 # Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := curtana
+TARGET_BOOTLOADER_BOARD_NAME := joyeuse
 
 # Display
 TARGET_SCREEN_DENSITY := 440
