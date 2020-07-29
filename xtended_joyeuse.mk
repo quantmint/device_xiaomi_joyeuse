@@ -16,4 +16,4 @@ PRODUCT_MANUFACTURER := Redmi
 TARGET_BOOT_ANIMATION_RES := 1080
 SKIP_ABI_CHECKS=true
 
-BUILD_FINGERPRINT := "Redmi/curtana_global/curtana:10/QKQ1.191215.002/V11.0.9.0.QJWMIXM:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200605.001/6392402:user/release-keys"
