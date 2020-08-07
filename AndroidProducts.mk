@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_joyeuse.mk
+    $(LOCAL_DIR)/lineage_joyeuse.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_joyeuse-user \
-    xtended_joyeuse-userdebug \
-    xtended_joyeuse-eng
+    lineage_joyeuse-user \
+    lineage_joyeuse-userdebug \
+    lineage_joyeuse-eng
